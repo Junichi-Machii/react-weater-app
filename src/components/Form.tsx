@@ -1,5 +1,5 @@
 import React from 'react'
-import { useState } from "react";
+
 
 // http://api.weatherapi.com/v1/current.json?key=c1c9c437aa154a06b2b14007231505&q=tokyo&aqi=no
 
